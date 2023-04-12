@@ -1,0 +1,3 @@
+/home/andreea/cursuri/POO/Proiect_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/andreea/cursuri/POO/Proiect_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/andreea/cursuri/POO/Proiect_2/cmake-build-debug/CMakeFiles/Proiect_2.dir
